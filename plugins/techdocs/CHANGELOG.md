@@ -1,5 +1,13 @@
 # @backstage/plugin-techdocs
 
+## 0.8.1
+
+### Patch Changes
+
+- 6fbd7beca: Use `EntityRefLink` in header and use relations to reference the owner of the
+  document.
+- 39bdaa004: Add customization and exportable components for TechDocs landing page
+
 ## 0.8.0
 
 ### Minor Changes
